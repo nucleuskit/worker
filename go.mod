@@ -1,10 +1,9 @@
-module github.com/nucleuskit/nucleus/runtime/worker
+module github.com/nucleuskit/worker
 
 go 1.26.3
 
 require (
-	github.com/nucleuskit/nucleus/cap v0.0.3
-	github.com/nucleuskit/nucleus/core v0.0.1
+	github.com/nucleuskit/cap v0.1.0-alpha.2
+	github.com/nucleuskit/core v0.1.0-alpha.2
+	github.com/robfig/cron/v3 v3.0.1
 )
-
-require github.com/robfig/cron/v3 v3.0.1

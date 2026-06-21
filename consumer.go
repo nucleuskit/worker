@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nucleuskit/nucleus/cap/mq"
+	"github.com/nucleuskit/cap/mq"
 )
 
 var ErrRunnerClosed = errors.New("worker runner closed")

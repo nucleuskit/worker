@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	nucleuscontext "github.com/nucleuskit/nucleus/core/context"
+	nucleuscontext "github.com/nucleuskit/core/context"
 )
 
 func TestCronRunnerRunOnceEmitsEventsTraceAndEvidence(t *testing.T) {

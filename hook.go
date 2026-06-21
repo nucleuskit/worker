@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/nucleuskit/nucleus/cap/mq"
+	"github.com/nucleuskit/cap/mq"
 )
 
 type EventKind string

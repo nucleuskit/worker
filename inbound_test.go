@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/nucleuskit/nucleus/core/inbound"
+	"github.com/nucleuskit/core/inbound"
 )
 
 func TestNewInboundRequestFromWorkerMessagePreservesTopicPayloadAndMetadata(t *testing.T) {

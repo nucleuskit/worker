@@ -3,7 +3,7 @@ package worker
 import (
 	"context"
 
-	"github.com/nucleuskit/nucleus/cap/mq"
+	"github.com/nucleuskit/cap/mq"
 )
 
 type Message struct {

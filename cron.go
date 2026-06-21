@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	nucleuscontext "github.com/nucleuskit/nucleus/core/context"
+	nucleuscontext "github.com/nucleuskit/core/context"
 )
 
 type Job interface {

@@ -1,6 +1,6 @@
-github.com/nucleuskit/nucleus/cap v0.0.3 h1:4+Jbf7NsB0+KsIo6BLtBT3IaDp7TjvB13AVCS4uVMNc=
-github.com/nucleuskit/nucleus/cap v0.0.3/go.mod h1:ZqdT8AyVE2CgkB8YvyxWTi5cTaaUqk+UKm4dIfo/f7M=
-github.com/nucleuskit/nucleus/core v0.0.1 h1:gcg571ZpmKa7yRl3QMbhfSQFlACayv1ONTv3DsPNCsw=
-github.com/nucleuskit/nucleus/core v0.0.1/go.mod h1:lESCYRIo0Xphk3KfhRPCqVUJMJ8kIQW1pyOr1J+xye8=
+github.com/nucleuskit/cap v0.1.0-alpha.2 h1:UnBp5ezoi+UrgT92DwpTdQynrEnUNnsf3rQKB0pNfPw=
+github.com/nucleuskit/cap v0.1.0-alpha.2/go.mod h1:DLSQmS/6irYQfpWGJjce9+STvqG33yZMCxkwvdLf7XM=
+github.com/nucleuskit/core v0.1.0-alpha.2 h1:CT4RJvCYtVNo0+Gqyf5zx4T90dBiXq4JVhQxEKBXyJ8=
+github.com/nucleuskit/core v0.1.0-alpha.2/go.mod h1:fwIlIS28wLh/VQ/jhR4TgrZcrN1nOgrAxSYYYWRdEYk=
 github.com/robfig/cron/v3 v3.0.1 h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=
 github.com/robfig/cron/v3 v3.0.1/go.mod h1:eQICP3HwyT7UooqI/z+Ov+PtYAWygg1TEWWzGIFLtro=
